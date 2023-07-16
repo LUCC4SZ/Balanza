@@ -1,0 +1,2 @@
+Tengo 9 monedas, todas aparentemente iguales, pero una es más pesada que el resto.
+Para saber cuál es, se puede usar una balanza tradicional. La balanza se puede usar solamente dos veces.
